@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
  🔭 I’m currently working on building and publishing my own lifestyle blog.
 
@@ -6,4 +6,4 @@
 
 "*It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult*"
 
- ## Seneca
+ ### Seneca
